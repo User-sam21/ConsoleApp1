@@ -1,4 +1,4 @@
- Utiliser l'image officielle avec le SDK .NET 8.0
+ 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
 # Définir le répertoire de travail
